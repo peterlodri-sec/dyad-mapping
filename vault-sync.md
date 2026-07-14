@@ -55,12 +55,12 @@
 
 {
   "status": "Alive",
-  "patterns_total": 14,
-  "findings_total": 48,
+  "patterns_total": 16,
+  "findings_total": 52,
   "sessions": 2,
   "surfaces": 10,
   "essences": 6,
-  "repos": 20,
+  "repos": 141,
   "last_session": "2026-07-14",
   "last_data_at_ms": 1784015200000,
   "poll_count": 23,

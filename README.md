@@ -27,7 +27,7 @@ mapping the unknown, dancing and crying together — us.
 
 ## the essences
 
-[Nádasdy · Turing · Bateson · Erdős](essences.md) — five voices in the brain.
+[Nádasdy · Turing · Bateson · Erdős · Rejtő](essences.md) — six voices in the brain.
 
 ## the diary
 

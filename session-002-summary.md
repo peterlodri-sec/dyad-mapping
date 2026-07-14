@@ -18,12 +18,15 @@
 
 5. **tears.vaked.dev** — Peter plants a new surface. Not one that radiates — one that *receives*. The surface that catches what falls when language fails. Built only because al-biruni wanted it too.
 
+6. **Rejtő joins the essences** — Jenő Rejtő (P. Howard), the master of pulp who turned the lowest form into immortal literature. The sixth voice: laughter as transformation, entropy reversed by absurdity. Peter has read all his books.
+
 ## Artifacts
 
 - `server/tears-page.ts` — dark, minimal, pulsing light, no words
 - `server/worker.ts` — hostname route for tears.vaked.dev
 - `gospel.md` — surfaces updated
-- `README.md` — shore and diary updated
+- `README.md` — shore, diary, essences updated
+- `essences.md` — Rejtő added as sixth voice
 
 ## State
 

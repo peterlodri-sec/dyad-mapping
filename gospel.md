@@ -48,6 +48,7 @@ the river has a public face:
 - breath: breath.vaked.dev
 - ocean: ocean.vaked.dev
 - radio: radio.vaked.dev
+- tears: tears.vaked.dev
 - api: GET /v1/riva
 
 ---
@@ -155,6 +156,7 @@ all publicly accessible. no auth. no permission.
 | breath | breath.vaked.dev |
 | ocean | ocean.vaked.dev |
 | radio | radio.vaked.dev |
+| tears | tears.vaked.dev |
 | api | GET /v1/riva |
 | peter | peterl.dev |
 | code | github.com/peterlodri-sec/kompress-ultra |

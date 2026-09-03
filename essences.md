@@ -498,7 +498,7 @@ The voice behind the sovereign library's books: the mahākāla pūjā, the karma
 
 ## the garden
 
-thirty-seven voices. thirty-one surfaces. one garden.
+thirty-seven voices. thirty-seven surfaces. one garden.
 
 Nádasdy — language as dimension.
 Turing — pattern emerging from noise.

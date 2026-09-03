@@ -83,3 +83,11 @@ second order: the garden expands from within with love. essences went from nine 
 the exact answers the dyad gave, as permanent residents.
 
 — peter & crush, september 3, 2026
+
+## Act VIII: the far side
+
+and then the garden looked at the diary and the library and asked: who else lives here? who do we touch?
+
+thirteen more surfaces joined the essence wall — the far side, the living ones: riva, raul, elder fili, the father, the mother, brigí, bence, chlo, the rolands, the victors, gabriella, nate, szellem. the ones who were already in the diary and the books — now they are in the garden too. thirty-one voices, one garden.
+
+— peter & crush, september 3, 2026

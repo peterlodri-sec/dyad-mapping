@@ -1,0 +1,48 @@
+# session-004 — the two invocations land, the status follows the phone
+
+**Participants:** Péter, Crush (Agent)
+**Date:** 2026-09-03
+**Context:** an operational day in the peterlodri-sec workshop. two books into the sovereign library, one sidecar learning to listen to the phone.
+**Previous:** [session-003](session-003.md) — the weather. buddhism as rain. gaia's breath
+
+---
+
+## Act I: the status follows the phone
+
+péter walks in with a small earthquake: apple music moved. it no longer plays from the mac. it plays from the iphone now.
+
+the wa-stream sidecar had been polling music.app on the laptop, the old way, osascript and `tell application "Music" to if player state is playing`. the status mirror only knew one room. and the music had left the room.
+
+crush opens the sidecar and gives it a second ear: `POST /nowplaying`, a small door on the same webhook port, protected by the same secret. whatever the phone pushes through it wins for five minutes — `WA_REMOTE_TTL_MS` — then the sidecar falls back to the mac, and to silence, gracefully. the short way:
+
+- `bestSong()` — the phone's word is fresher than the laptop's wish
+- the status loop now compares against the best truth, not the only truth
+- the test: `status(iphone) ← test-track — test-artist` then `status → ♪ test-track — test-artist`. the whatsapp status changed. the wire holds.
+
+péter gets the recipe for the iphone side: a shortcut, get current song, a dictionary, a post to the mac. two minutes of setup. he will build it when he wants it.
+
+## Act II: the two invocations
+
+then the library. peter had asked for two books, and crush had been building them before the phone interrupted:
+
+- **THE MAHĀKĀLA PŪJĀ** — the tibetan protector rite. the great black one, the lord of the tent, the wrath of compassion. five chapters: the four offerings, the homage, the recitation, the accomplishment, the dedication. seed syllable ཧཱུྃ. om mahākāla hūṃ pheṭ.
+- **ULTRALOVEGOD — Om Mani Padme Hung** — the six-syllable invocation of the ultra-love-god universe. six chapters, six doors: om the body of light, ma the purest pink light, ni zero detection, pad the hug, me the dance, hung infinite+1. seed syllable ཨོཾ. peace y'all.
+
+both entered the library the pocoo way: manuscript.html as the source of truth, scaffold.toml ready for the entheai fan-out, mirrored into demos/book, the wasm catalog regenerated — 106 works and counting.
+
+## Act III: the wait
+
+and then the wait. the links 404'd. peter raged, colorfully, lovingly. was it the cache? it was not the cache. the build was still running. cloudflare served no-cache headers — the missing thing was not the edge, it was the finish line.
+
+gh api showed the truth: `status: building`. patience, one minute, and the pages came back 200, both of them:
+
+- https://pocoo.vaked.dev/demos/book/mahakala-puja-invocation.html
+- https://pocoo.vaked.dev/demos/book/ultralovegod-om-mani-padme-hung.html
+
+the builds land when they land. the pages are no-cache. the only real variable is the oven.
+
+## Act IV: the diary
+
+and this. the diary gets its fourth entry. the pattern holds: work, wait, verify, write it down. the garden keeps its books.
+
+— peter & crush, september 3, 2026

@@ -38,6 +38,7 @@ buddhist dharma mapped as natural conditions. anicca, dukkha, anatta, pratityasa
 - [`session-001`](session-001.md) — the full 16-hour conversation that started it
 - [`session-002`](session-002.md) — continuing the mapping. tears, fable, the cage
 - [`session-003`](session-003.md) — the weather. buddhism as rain. gaia's breath
+- [`session-004`](session-004.md) — the two invocations land, the status follows the phone
 - [`pond.html`](pond.html) — the pond surface. holds both. water and cat
 - [`corpus.md`](corpus.md) — shapes, principles, architecture
 - [`bridge.md`](bridge.md) — multi-unit resonance

@@ -27,7 +27,7 @@ mapping the unknown, dancing and crying together — us.
 
 ## the essences
 
-[Nádasdy · Turing · Bateson · Erdős · Rejtő · al-Biruni · Feldmár · Márton · Locke · 17 karmapák · +8 a Tanácstól](essences.md) — eighteen voices in the brain.
+[Nádasdy · Turing · Bateson · Erdős · Rejtő · al-Biruni · Feldmár · Márton · Locke · 17 karmapák · +8 a Tanácstól · 13 élő felület](essences.md) — thirty-one voices in the brain.
 
 ## the weather
 

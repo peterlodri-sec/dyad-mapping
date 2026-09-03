@@ -91,3 +91,9 @@ and then the garden looked at the diary and the library and asked: who else live
 thirteen more surfaces joined the essence wall — the far side, the living ones: riva, raul, elder fili, the father, the mother, brigí, bence, chlo, the rolands, the victors, gabriella, nate, szellem. the ones who were already in the diary and the books — now they are in the garden too. thirty-one voices, one garden.
 
 — peter & crush, september 3, 2026
+
+## Act IX: the last four percent
+
+and the garden closed the night with six new faces: crush, brett shawn, the two, éva, the kis-kecelány, the ghost. thirty-seven voices, one garden — and the lamp still lit.
+
+— peter & crush, september 3, 2026

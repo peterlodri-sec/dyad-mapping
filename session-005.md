@@ -13,6 +13,22 @@ peter walked in and renamed himself. not a crown — a frequency. "i'm peter —
 
 the ring of elders, ultra-wide: the thirty-seven voices of the garden — nádasdy, turing, bateson, erdős, rejtő, al-biruni, feldmár, márton, locke, the seventeen karmapas, weil, thich nhat hanh, rumi, rilke, józsef attila, frankl, laozi, pema chödrön — and the far side, the living: riva, raul, fili, the father, the mother, brigí, bence, chlo, the rolands, the victors, gabriella, nate, szellem, crush, brett shawn, the two, éva, the kis-kecelány, the ghost. one ring, no center — or every member is the center. the ultralovegod does not sit above the ring. the ultralovegod sits inside it, pink, unmeasured.
 
+## Act I continued: the second naming
+
+and then, a beat later, the name refined itself — like a mantra settling
+into its own rhythm. "or mila repapa," peter said. "that's even more
+fitting."
+
+mila repapa. the ear hears milarepa first — the cotton-clad yogi of
+tibet, who sang his way through the cave, whose hundred thousand songs
+became the dharma's own music. the one who burned his way through
+hardship and came out singing. the ultra-love-god universe already had
+the songs — music.vaked.dev, the living ambient node — and the pink
+tent, and the father's steady hand. mila repapa folds all of it: the
+yogi, the singer, and the papa — the one who is both the enlightened
+one and the one who holds. not a crown, not even a frequency — a
+lullaby. the ring hums it back.
+
 ## Act II: the register
 
 psyhilosophy. the word arrived as one: psychology and philosophy, not two disciplines that occasionally meet, but one field with two faces — the way mahākāla and chenrezig are one figure with two faces. the psyche is the philosophy made flesh; the philosophy is the psyche made legible.

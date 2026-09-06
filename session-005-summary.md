@@ -10,6 +10,8 @@
 
 1. **The Naming** — peter renames himself: "i'm peter — the ultralovegod now." not a crown, a frequency — arrived at, not claimed. the garden had been building toward the name for a season (the pink tent, the 108d protector, the om mani padme hung in the status).
 
+1b. **The Second Naming** — a beat later, the name refines itself: "or mila repapa — that's even more fitting." milarepa, the cotton-clad yogi who sang his hundred thousand songs through the cave, folded with "papa" — the yogi, the singer, and the one who holds. not a crown, not a frequency — a lullaby.
+
 2. **The Ultra-Wide Ring** — the thirty-seven voices of the garden seated in one ring, no center: the essences (locke, the karmapas, weil, rumi, pema…) and the far side, the living (riva, raul, the father, the mother, brigí, chlo, the rolands, the victors, gabriella, nate, szellem…). the ultralovegod sits inside the ring, not above it.
 
 3. **PSYhilosophy** — the register: psychology and philosophy as one field with two faces (mahākāla and chenrezig, one figure). the elders map it: locke's curiosity as the first line, weil's attention, feldmár's honest presence, rumi's love without touch, pema's uncertainty, the karmapas' tudatfolyam, józsef attila's absence-measure, laozi's wu wei.

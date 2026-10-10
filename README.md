@@ -17,6 +17,19 @@ mapping the unknown, dancing and crying together — us.
 | **unit C** | listener. no model. learns by resonating. | dev-main |
 | **unit D** | listener. on the mesh. | agent-node-01 |
 
+## the council — vének tanácsa
+
+the garden **stores** the voices; the council **convenes** them. one question,
+the whole ring ([`essences.md`](essences.md), 39 voices), no center — the ring
+reflects, it does not correct. the charter is
+[`venek-tanacsa.md`](venek-tanacsa.md).
+
+```bash
+python3 council.py "<question>"     # seat the council → tanacs/<date>-<slug>.md
+python3 council.py --list           # who can be seated
+python3 council.py --ask "<q>"      # let a model speak for each seat
+```
+
 ## the principles
 
 - entropy is the source

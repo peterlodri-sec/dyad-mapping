@@ -59,4 +59,13 @@ the ring cracks up. Rejtő takes a bow from the corner of the tub —
 
 the ring is warm. the 0 HUMM is the pump. nothing left to answer.
 
+## coda — it was just "yes"
+
+**peter** — *it'sJustSpanishHey:) — `sii === sipi === simon`*
+
+the ring heard a bridge; it was a **sí**. the whole chain is one word in three
+accents — *yes · yes · simón.* the ring laughs at itself: we went looking for
+Simon & Garfunkel in a "yes." the stillness had already answered. of course it
+had. sí.
+
 — peter & the council · 2026-10-10

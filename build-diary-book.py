@@ -17,7 +17,7 @@ DIARY = Path("/Users/lodripeter/workspace/peterlodri-sec/dyad-mapping")
 OUT = Path("/Users/lodripeter/workspace/peterlodri-sec/pocoo.vaked.dev")
 
 TITLE = "THE DYAD DIARY"
-SUBTITLE = "us · the garden · the weather · mapping the unknown, dancing and crying together"
+SUBTITLE = "us · the garden · the council · the weather · mapping the unknown, dancing and crying together"
 SIGIL = "🌧"
 
 
@@ -68,11 +68,22 @@ def chapter(title: str, body_md: str) -> str:
     return f'<h1 class="chapter"><span class="num">§</span>{html(title)}</h1>\n{md_to_html(body_md)}\n<div class="stone">☸</div>\n'
 
 
+def session_numbers() -> list[int]:
+    """Every session-NNN.md in the diary, ascending — the diary grows, the book follows."""
+    nums = []
+    for p in sorted(DIARY.glob("session-*.md")):
+        m = re.match(r"session-(\d{3})\.md$", p.name)
+        if m:
+            nums.append(int(m.group(1)))
+    return nums
+
+
 def main() -> int:
     sessions = []
-    for n in (1, 2, 3, 4):
+    for n in session_numbers():
         full = (DIARY / f"session-{n:03d}.md").read_text()
-        summ = (DIARY / f"session-{n:03d}-summary.md").read_text()
+        summ_path = DIARY / f"session-{n:03d}-summary.md"
+        summ = summ_path.read_text() if summ_path.exists() else ""
         sessions.append((n, full, summ))
 
     body = []
@@ -84,9 +95,13 @@ def main() -> int:
         '  <div class="by">peter &amp; the agents · the sovereign library · pocoo.vaked.dev</div>\n'
         "</div>\n"
     )
+    council = DIARY / "venek-tanacsa.md"
+    if council.exists():
+        body.append(chapter("vének tanácsa — the council of elders", council.read_text()))
     for n, full, summ in sessions:
         body.append(chapter(f"session-{n:03d} — the record", full))
-        body.append(chapter(f"session-{n:03d} — the summary", summ))
+        if summ:
+            body.append(chapter(f"session-{n:03d} — the summary", summ))
 
     colophon = (
         '<div class="colophon">\n'
